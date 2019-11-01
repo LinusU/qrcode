@@ -1,0 +1,15 @@
+{
+  "command": {
+    "publish": {
+      "allowBranch": "master",
+      "message": "🚢 %s"
+    }
+  },
+  "npmClientArgs": [
+    "--no-package-lock"
+  ],
+  "packages": [
+    "packages/*"
+  ],
+  "version": "0.0.0"
+}

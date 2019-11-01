@@ -1,0 +1,20 @@
+{
+  "name": "@qrcode/svg",
+  "version": "0.0.0",
+  "license": "MIT",
+  "repository": "LinusU/qrcode",
+  "files": [
+    "index.d.ts",
+    "index.js"
+  ],
+  "scripts": {
+    "test": "standard && tsd"
+  },
+  "dependencies": {
+    "@qrcode/core": "0.0.0"
+  },
+  "devDependencies": {
+    "standard": "^14.3.1",
+    "tsd": "^0.10.0"
+  }
+}
