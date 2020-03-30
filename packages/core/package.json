@@ -11,7 +11,7 @@
     "dist.js"
   ],
   "devDependencies": {
-    "qrcode": "^1.4.4",
+    "qrcode": "LinusU/node-qrcode#uint8array",
     "rollup": "^2.3.0",
     "rollup-plugin-commonjs": "^10.1.0",
     "rollup-plugin-node-resolve": "^5.2.0",
