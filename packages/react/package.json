@@ -1,0 +1,23 @@
+{
+  "name": "@qrcode/react",
+  "version": "0.0.0",
+  "license": "MIT",
+  "repository": "LinusU/qrcode",
+  "files": [
+    "index.d.ts",
+    "index.js"
+  ],
+  "scripts": {
+    "test": "standard"
+  },
+  "dependencies": {
+    "@qrcode/svg": "^1.0.0-beta.1"
+  },
+  "devDependencies": {
+    "react": "^16.13.1",
+    "standard": "^14.3.3"
+  },
+  "peerDependencies": {
+    "react": ">=16"
+  }
+}
