@@ -1,6 +1,6 @@
 {
   "name": "@qrcode/core",
-  "version": "1.0.0-beta.1",
+  "version": "1.0.0-beta.2",
   "license": "MIT",
   "repository": "LinusU/qrcode",
   "main": "dist.js",
