@@ -1,6 +1,6 @@
 {
   "name": "@qrcode/svg",
-  "version": "1.0.0-beta.2",
+  "version": "1.0.0-beta.3",
   "license": "MIT",
   "repository": "LinusU/qrcode",
   "files": [
@@ -11,7 +11,7 @@
     "test": "standard && tsd"
   },
   "dependencies": {
-    "@qrcode/core": "^1.0.0-beta.2"
+    "@qrcode/core": "^1.0.0-beta.3"
   },
   "devDependencies": {
     "standard": "^14.3.3",

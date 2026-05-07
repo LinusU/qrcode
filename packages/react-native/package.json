@@ -1,6 +1,6 @@
 {
   "name": "@qrcode/react-native",
-  "version": "1.0.0-beta.2",
+  "version": "1.0.0-beta.3",
   "license": "MIT",
   "repository": "LinusU/qrcode",
   "files": [
@@ -12,8 +12,8 @@
     "test": "standard && tsd"
   },
   "dependencies": {
-    "@qrcode/react": "^1.0.0-beta.2",
-    "@qrcode/svg": "^1.0.0-beta.2",
+    "@qrcode/react": "^1.0.0-beta.3",
+    "@qrcode/svg": "^1.0.0-beta.3",
     "react-native-svg": "^15.0.0 || ^14.0.0 || ^13.0.0 || ^12.0.3 || ^11.0.1 || ^9.13.3"
   },
   "devDependencies": {
